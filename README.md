@@ -2,7 +2,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Scripts
 
-#React_Redux_todo_app
+# React_Redux_todo_app
 
--this made with react and redux also
--used bootstrap
+- this made with react and redux also
+- used bootstrap
